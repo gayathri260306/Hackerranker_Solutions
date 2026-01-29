@@ -1,5 +1,7 @@
-// Problem: Plus Minus
+// Problem: "Hello World!" in C
 // Difficulty: Easy
+/*This challenge requires you to print Hello world! on a single line, and then print the already provided input string to stdout.
+If you are not familiar with C, you may want to read about the printf() command.*/
 
 #include <stdio.h>
 #include <string.h>
