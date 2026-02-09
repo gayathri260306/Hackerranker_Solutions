@@ -1,5 +1,5 @@
 # Problem: Write a function
-# Difficulty: Easy
+# Difficulty: Medium
 #Given a year, determine whether it is a leap year.
 
 def is_leap(year):
